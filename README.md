@@ -1,3 +1,3 @@
 # Descrição do Projeto
 
-Este Projeto 
+Este projeto foi desenvolvido por Enzo Turcovic e Luiza Schettini 
