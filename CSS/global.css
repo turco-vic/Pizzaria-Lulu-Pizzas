@@ -9,7 +9,6 @@ body {
     line-height: 1.6;
     background-image: url(/img/back-img-pizzaria.png);
     color: #000000;
-    
 }
 
 header {
@@ -89,7 +88,11 @@ footer {
     padding: 20px;
 }
 
-.grid-container {
+.box-pizzas, .box-bebidas {
+    background-color: #d4b88e;
+}
+
+.pizza-container, .drink-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
