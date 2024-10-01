@@ -96,7 +96,7 @@ footer {
     gap: 20px;
 }
 
-.pizza-card, drink-card {
+.pizza-card {
     width: 30%;
     border: 1px solid #ddd;
     border-radius: 10px;
@@ -118,4 +118,12 @@ footer {
 
 .pizza-card p {
     margin: 5px 0;
+}
+
+.back-image{
+    background-color: #ffffff;
+    width: 50%; 
+    margin: 0 auto;
+    border-radius: 8px;
+    border:1px solid #000000;
 }
