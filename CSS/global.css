@@ -33,12 +33,11 @@ header {
 }
 
 .pizza-home {
-    border-radius: 8px;
+    
 }
 
 .logo img {
     width: 150px;
-
 }
 
 nav {
@@ -107,7 +106,7 @@ footer {
     gap: 20px;
 }
 
-.pizza-card, drink-card {
+.pizza-card, .drink-card {
     width: 30%;
     border: 1px solid #000000;
     border-radius: 10px;
@@ -117,17 +116,17 @@ footer {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-.pizza-card img {
+.pizza-card img, .drink-card img {
     width: 100%;
     height: auto;
     border-radius: 10px;
 }
 
-.pizza-card h3 {
+.pizza-card h3, .drink-card h3 {
     margin: 15px 0 10px;
 }
 
-.pizza-card p {
+.pizza-card p, .drink-card img {
     margin: 5px 0;
 }
 
