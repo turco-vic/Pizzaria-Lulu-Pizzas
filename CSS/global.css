@@ -87,9 +87,6 @@ footer {
     color: white;
     text-align: center;
     padding: 20px;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
 }
 
 .grid-container {
@@ -121,8 +118,4 @@ footer {
 
 .pizza-card p {
     margin: 5px 0;
-}
-
-teste {
-    
 }
