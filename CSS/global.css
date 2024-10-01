@@ -88,8 +88,16 @@ footer {
     padding: 20px;
 }
 
-.box-pizzas, .box-bebidas {
+.box-pizzas {
     background-color: #d4b88e;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.box-bebidas {
+    background-color: #d4b88e;
+    border-radius: 8px;
+    margin-top: 20px;
 }
 
 .pizza-container, .drink-container {
@@ -99,9 +107,9 @@ footer {
     gap: 20px;
 }
 
-.pizza-card, drink-card {
+.pizza-card, .drink-card img {
     width: 30%;
-    border: 1px solid #ddd;
+    border: 1px solid #000000;
     border-radius: 10px;
     padding: 15px;
     text-align: center;
@@ -121,4 +129,8 @@ footer {
 
 .pizza-card p {
     margin: 5px 0;
+}
+
+.bebidas, .pizzas, .cardapio {
+    color: #000000;
 }
