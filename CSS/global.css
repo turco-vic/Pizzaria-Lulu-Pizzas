@@ -133,9 +133,20 @@ footer {
     margin: 5px 0;
 }
 
-.back-image {
-    background-color: #f9f9f9;
+.back-info {
+    background-color: #f3f3f3;
     border-radius: 8px;
     width: 50%;
     margin: 0 auto;
+}
+
+.localizacao {
+    border-radius: 8px;
+    margin-bottom: 40px;
+}
+
+.contao-info {
+    border-radius: 8px;
+    margin-bottom: 40px;
+    background-color: #d30000;
 }
