@@ -93,7 +93,8 @@ footer {
 .box-pizzas {
     background-color: #d4b88e;
     border-radius: 8px;
-    margin-bottom: 20px;
+    margin-bottom: 90px;
+    margin-top: 40px;
 }
 
 .box-bebidas {
@@ -117,6 +118,8 @@ footer {
     text-align: center;
     background-color: #f9f9f9;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 30px;
+    margin-bottom: 40px;
 }
 
 .pizza-card img, .drink-card img {
@@ -149,4 +152,26 @@ footer {
     border-radius: 8px;
     margin-bottom: 40px;
     background-color: #d30000;
+}
+
+.info-boxcardapio {
+    background-color: #ffffff;
+    border: 3px solid #d4b88e;
+    border-radius: 8px;
+    width: 30%;
+    display: flex;
+    justify-content: flex-end;
+    height: 100px;
+    flex-direction: column-reverse;
+}
+
+.container {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.pizzas, .bebidas {
+    margin-top: 40px;
+
 }
