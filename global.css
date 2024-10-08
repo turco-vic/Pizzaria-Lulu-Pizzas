@@ -155,7 +155,7 @@ footer {
 }
 
 .info-boxcardapio {
-    background-color: #ffffff;
+    background-color: #d30000;
     border: 3px solid #d4b88e;
     border-radius: 8px;
     width: 30%;
@@ -174,4 +174,8 @@ footer {
 .pizzas, .bebidas {
     margin-top: 40px;
 
+}
+
+.cardapio {
+    color: #ffffff;
 }
